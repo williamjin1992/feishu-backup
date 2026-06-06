@@ -1,0 +1,5 @@
+# 忽略所有，仅保留 images/
+*
+!.gitignore
+!images/
+!images/**
